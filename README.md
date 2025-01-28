@@ -47,6 +47,9 @@ Enhanced for showcasing expertise and projects based on the CV of Boga Ange Chri
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
+   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="40" height="40"/>
+  </a>
 </p>
 
 ---
